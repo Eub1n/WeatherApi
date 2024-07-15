@@ -28,3 +28,4 @@ Este projeto é um microserviço RESTful em C# que fornece endpoints para consul
 
 - No terminal digitar o comando dotnet run
 - No seu navegador de prefrência colar a url http://localhost:5076/api/weather/ e no final colocar o nome da cidade que deseja consultar ( por exemplo: http://localhost:5076/api/weather/Washington).
+- Você pode também acessar a aplicação pelo link: [WeatherAPI](https://weatherforecastapiwm.azurewebsites.net/api/weather/Washington) e no final adicionar o nome da cidade que deseja como (por exemplo Washington).
